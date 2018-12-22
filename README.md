@@ -1,2 +1,2 @@
-# New-KouhaiBot
+# New KouhaiBot
 New source code for KouhaiBot
